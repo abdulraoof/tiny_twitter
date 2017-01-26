@@ -1,1 +1,1 @@
-#Ruby on Rails Tiny Twitter application
+#A light weight twitter clone.
